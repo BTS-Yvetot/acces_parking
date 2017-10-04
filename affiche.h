@@ -1,3 +1,4 @@
+//fichier d'entete
 #ifndef AFFICHE_H
 #define AFFICHE_H
 
